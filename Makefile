@@ -1,6 +1,6 @@
-version ?= 4.33.0
+version ?= 4.33.1
 aem_stack_manager_messenger_version = 2.10.0
-aem_test_suite_version = 1.13.0
+aem_test_suite_version = 1.13.1
 aem_helloworld_custom_stack_provisioner_version = 0.14.0
 
 ci: clean deps lint package
